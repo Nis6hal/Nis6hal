@@ -14,11 +14,9 @@
 ## 🚀 About Me
 👨‍💻 **Passionate Developer | Tech Enthusiast | Problem Solver**
 
-🔹 I am a **Computer Engineering Student** deeply interested in software development, algorithms, and web technologies. I enjoy crafting clean, scalable, and high-performance applications.
-
-🔹 Always curious to learn **new technologies**, especially in the fields of **AI, Cloud Computing, and Web Development**.
-
-🔹 Dedicated to open-source contributions and exploring innovative solutions to modern-day problems.
+🔹 I am a **Computer Engineering Student** deeply interested in software development, algorithms, and web technologies.  
+🔹 Always curious to learn **new technologies**, especially **AI, Cloud Computing, and Web Development**.  
+🔹 Dedicated to open-source contributions and solving real-world problems through code.  
 
 ---
 
@@ -28,9 +26,8 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,github,git,linux" alt="Tech Stack" />
 </p>
 
-💡 **Currently Learning:** React.js, Next.js, TypeScript, Machine Learning.
-
-💬 **Ask Me About:** Java, Python, Web Development, Problem-Solving.
+💡 **Currently Learning:** React.js, Next.js, TypeScript, Machine Learning.  
+💬 **Ask Me About:** Java, Python, Web Development, Problem-Solving.  
 
 ---
 
@@ -38,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nis6hal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nis6hal&theme=tokyonight" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nis6hal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
@@ -49,10 +46,10 @@
 ---
 
 ## 🌱 Currently Exploring
-- **Full-Stack Development (MERN Stack)** ⚡
-- **Cloud Computing & DevOps** ☁️
-- **Artificial Intelligence & Machine Learning** 🤖
-- **Data Structures & Algorithms** 🏆
+- **Full-Stack Development (MERN Stack)** ⚡  
+- **Cloud Computing & DevOps** ☁️  
+- **Artificial Intelligence & Machine Learning** 🤖  
+- **Data Structures & Algorithms** 🏆  
 
 ---
 
@@ -72,7 +69,7 @@
 ---
 
 ## ⚡ Fun Fact
-💻 "Programming isn't just about writing code; it's about creating something that changes the world!" 🌍
+💻 "Programming isn't just about writing code; it's about creating something that changes the world!" 🌍  
 
 ---
 
