@@ -1,7 +1,7 @@
 ### Hi there, I'm Nischal! 👋
 
 <!-- Banner Image -->
-<img src="https://wallpapercave.com/wp/wp10475000.png" alt="Banner" width="40%">
+<img src="https://wallpapercave.com/wp/wp10475000.png" alt="Banner" width="100%">
 
 I'm a **Computer Engineering Student** passionate about building apps, websites, and software. I love coding and exploring new technologies to enhance my skills. Currently, I'm focusing on **Java, Python, JavaScript, HTML & CSS** to create efficient and scalable solutions.
 
