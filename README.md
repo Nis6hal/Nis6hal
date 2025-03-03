@@ -1,7 +1,7 @@
 ### Hi there, I'm Nischal! 👋
 
 <!-- Banner Image -->
-<img src="https://th.bing.com/th/id/OIP.LONgc7L8SWq6g4m0MyOShQHaEo?pid=ImgDet&w=60&h=60&c=7&rs=1" alt="Banner" width="100%">
+<img src="https://th.bing.com/th/id/OIP.LONgc7L8SWq6g4m0MyOShQHaEo?pid=ImgDet&w=60&h=60&c=7&rs=1" alt="Banner" width="40%">
 
 I'm a **Computer Engineering Student** passionate about building apps, websites, and software. I love coding and exploring new technologies to enhance my skills. Currently, I'm focusing on **Java, Python, JavaScript, HTML & CSS** to create efficient and scalable solutions.
 
