@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to My GitHub! I'm Nischal 👋</h1>
+<h1 align="center">🚀 Welcome to My GitHub! I'm Nischal 👋</h1> 
 
 <!-- Banner Image -->
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4183C4&width=600&lines=Full-Stack+Developer+in+Progress;Always+Learning+%26+Improving!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Computer+Engineering+Student;Full-Stack+Developer+in+Progress;Always+Learning+%26+Improving!" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,12 +22,19 @@
 
 ## 🛠️ Tech Stack & Skills
 
+### 🔹 What I Know:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,github,git,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,django,github,git,linux" alt="Tech Stack" />
 </p>
 
-💡 **Currently Learning:** React.js, Next.js, TypeScript, Machine Learning.  
-💬 **Ask Me About:** Java, Python, Web Development, Problem-Solving, HTML, CSS.  
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Django  
+- **Version Control:** Git, GitHub 
+
+### 🔹 What I'm Learning:
+💡 **Currently Learning:** DevOps (Docker, CI/CD), Next.js, AI/ML (TensorFlow, OpenAI APIs).  
+💬 **Ask Me About:** C, C++, Java, Python, Django, React, Web Development, Problem-Solving.  
 
 ---
 
@@ -45,7 +52,7 @@
 ---
 
 ## 🌱 Currently Exploring
-- **Full-Stack Development (MERN Stack)** ⚡  
+- **Full-Stack Development (Django & React)** ⚡  
 - **Cloud Computing & DevOps** ☁️  
 - **Artificial Intelligence & Machine Learning** 🤖  
 - **Data Structures & Algorithms** 🏆  
@@ -60,8 +67,8 @@
   <a href="https://github.com/Nis6hal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/your-twitter/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://facebook.com/your-facebook/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
