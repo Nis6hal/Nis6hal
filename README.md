@@ -27,7 +27,7 @@
 </p>
 
 💡 **Currently Learning:** React.js, Next.js, TypeScript, Machine Learning.  
-💬 **Ask Me About:** Java, Python, Web Development, Problem-Solving.  
+💬 **Ask Me About:** Java, Python, Web Development, Problem-Solving, HTML, CSS.  
 
 ---
 
