@@ -24,17 +24,17 @@
 
 ### 🔹 What I Know:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,django,github,git,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,django,github,git,linux" alt="Tech Stack" />
 </p>
 
-- **Languages:** C, C++, Java, Python, JavaScript  
-- **Frontend:** HTML, CSS, JavaScript, React  
+- **Languages:** C, C++, Java, Python,  
+- **Frontend:** HTML, CSS,  
 - **Backend:** Django  
 - **Version Control:** Git, GitHub 
 
 ### 🔹 What I'm Learning:
-💡 **Currently Learning:** DevOps (Docker, CI/CD), Next.js, AI/ML (TensorFlow, OpenAI APIs).  
-💬 **Ask Me About:** C, C++, Java, Python, Django, React, Web Development, Problem-Solving.  
+💡 **Currently Learning:** DevOps (Docker, CI/CD), AI/ML (TensorFlow, OpenAI APIs).  
+💬 **Ask Me About:** C, C++, Java, Python, Django, Web Development, Problem-Solving.  
 
 ---
 
