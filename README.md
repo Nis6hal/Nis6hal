@@ -33,8 +33,8 @@
 - **Version Control:** Git, GitHub 
 
 ### 🔹 What I'm Learning:
-💡 **Currently Learning:** DevOps (Docker, CI/CD), AI/ML (TensorFlow, OpenAI APIs).  
-💬 **Ask Me About:** C, C++, Java, Python, Django, Web Development, Problem-Solving.  
+💡 **Currently Learning:** JavaScript, AI/ML (TensorFlow, OpenAI APIs).  
+💬 **Ask Me About:** C, C++, Java, Python, Django, Web Development.  
 
 ---
 
