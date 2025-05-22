@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-👨‍💻 **Passionate Developer | Tech Enthusiast | Problem Solver**
+👨‍💻 **Tech Enthusiast | Problem Solver**
 
 🔹 I am a **Computer Engineering Student** deeply interested in software development, algorithms, and web technologies.  
 🔹 Always curious to learn **new technologies**, especially **AI, Cloud Computing, and Web Development**.  
@@ -24,17 +24,17 @@
 
 ### 🔹 What I Know:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,django,github,git,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,github,git" alt="Tech Stack" />
 </p>
 
 - **Languages:** C, C++, Java, Python,  
-- **Frontend:** HTML, CSS,  
-- **Backend:** Django  
+- **Frontend:** HTML, CSS  
+- **Backend:** Working on it......  
 - **Version Control:** Git, GitHub 
 
 ### 🔹 What I'm Learning:
 💡 **Currently Learning:** JavaScript, AI/ML (TensorFlow, OpenAI APIs).  
-💬 **Ask Me About:** C, C++, Java, Python, Django, Web Development.  
+💬 **Ask Me About:** C, C++, Java, Python, Web Development.  
 
 ---
 
