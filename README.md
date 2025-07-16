@@ -5,11 +5,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Nvbmdwdmw5cGtzemJkeTIyNDlhbmllYm9ydW5pNjRta21hZDVrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU9n2d0wH5OYbRPr3N/giphy.gif" alt="Banner" width="35%">
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Computer+Engineering+Student;Full-Stack+Developer+in+Progress;Always+Learning+%26+Improving!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=Computer+Engineering+Student;Always+Learning+%26+Improving!" alt="Typing SVG">
   
   <!-- Social Links -->
   <p>
-    <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <a href="https://www.linkedin.com/in/nis6hal/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/Nis6hal" target="_blank">
@@ -110,7 +110,7 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/nis6hal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Nis6hal" target="_blank">
