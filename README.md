@@ -94,8 +94,8 @@ const nischal = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nis6hal&repo=your-best-repo&theme=tokyonight)](https://github.com/Nis6hal/your-best-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nis6hal&repo=another-great-repo&theme=tokyonight)](https://github.com/Nis6hal/another-great-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nis6hal&repo=your-best-repo&theme=tokyonight)](https://github.com/Nis6hal/PixelPrompt---Turn-sketches-into-websites-via-Drawing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nis6hal&repo=another-great-repo&theme=tokyonight)](https://github.com/Nis6hal/Smart-Bus-Arrival-Predictor)
 
 </div>
 
