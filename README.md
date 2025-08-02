@@ -34,25 +34,14 @@ const nischal = {
 
 <div align="center">
 
-### Languages & Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Languages I Code In
+**C** • **C++** • **Java** • **Python** • **HTML** • **CSS** • **JavaScript**
 
-### Version Control & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Tools & Technologies
+**Git** • **GitHub** • **VS Code** • **Linux**
 
-### Currently Learning
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🌱 Currently Learning
+**React** • **Django** • **Machine Learning** • **Cloud Computing**
 
 </div>
 
@@ -94,8 +83,9 @@ const nischal = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nis6hal&repo=your-best-repo&theme=tokyonight)](https://github.com/Nis6hal/PixelPrompt---Turn-sketches-into-websites-via-Drawing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nis6hal&repo=another-great-repo&theme=tokyonight)](https://github.com/Nis6hal/Smart-Bus-Arrival-Predictor)
+🎨 **[PixelPrompt](https://github.com/Nis6hal/PixelPrompt---Turn-sketches-into-websites-via-Drawing)** - Turn sketches into websites via Drawing
+
+🚌 **[Smart Bus Arrival Predictor](https://github.com/Nis6hal/Smart-Bus-Arrival-Predictor)** - AI-powered bus arrival prediction system
 
 </div>
 
@@ -113,12 +103,12 @@ const nischal = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nis6hal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nis6hal)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nis6hal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+📧 **Email**: itisnischal@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/nis6hal](https://www.linkedin.com/in/nis6hal/)  
+🐙 **GitHub**: [github.com/Nis6hal](https://github.com/Nis6hal)  
+📘 **Facebook**: [facebook.com/nis6hal](https://www.facebook.com/nis6hal/)
 
-**💬 Open to collaborations, discussions, and learning opportunities!**
+**💬 Always open to collaborations, discussions, and learning opportunities!**
 
 </div>
 
@@ -127,18 +117,18 @@ const nischal = {
 ## 🎵 Currently Vibing To
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+  
+🎧 *Ask me what I'm listening to - I love discovering new music!*
 
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Daily Motivation
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*"The best time to plant a tree was 20 years ago. The second best time is now."*
 
 </div>
 
@@ -150,8 +140,7 @@ const nischal = {
 
 **Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nis6hal&color=brightgreen&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Nis6hal?style=for-the-badge&color=blue)
+**Visitor Count**: ![Profile Views](https://komarev.com/ghpvc/?username=Nis6hal&color=brightgreen)
 
 </div>
 
