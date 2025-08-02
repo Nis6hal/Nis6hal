@@ -58,10 +58,6 @@ const nischal = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nis6hal&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nis6hal&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 🎯 Current Focus Areas
