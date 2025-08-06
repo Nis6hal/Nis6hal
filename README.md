@@ -25,7 +25,7 @@ const nischal = {
     location: "Nepal 🇳🇵",
     interests: ["Web Development", "AI/ML", "Problem Solving"],
     currentFocus: "Building full-stack applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I have a love-hate relationship with CSS - it's 90% hate, 10% 'how did that actually work?"
 };
 ```
 
