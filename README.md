@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="images/Profile.jpg" alt="Nischal's Profile Picture" width="200" style="border-radius: 50%; border: 4px solid #58A6FF;"/>
+```
+███╗   ██╗██╗███████╗ ██████╗██╗  ██╗ █████╗ ██╗     
+████╗  ██║██║██╔════╝██╔════╝██║  ██║██╔══██╗██║     
+██╔██╗ ██║██║███████╗██║     ███████║███████║██║     
+██║╚██╗██║██║╚════██║██║     ██╔══██║██╔══██║██║     
+██║ ╚████║██║███████║╚██████╗██║  ██║██║  ██║███████╗
+╚═╝  ╚═══╝╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-# Hi there, I'm Nischal! 👋
+### 💻 Computer Engineering Student | 🚀 Full-Stack Developer in Making | 🌟 Open Source Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+in+the+Making+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%92%A1;Open+Source+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+playground!+%F0%9F%8E%AE;Building+the+future%2C+one+line+at+a+time+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+create+something+amazing+together!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
