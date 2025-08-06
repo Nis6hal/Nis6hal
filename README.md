@@ -90,10 +90,19 @@ const nischal = {
 
 ---
 
-## 📈 GitHub Activity
+## 🎯 Coding Journey
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nis6hal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+### 💡 What I'm Building
+*Currently crafting full-stack applications and exploring the fascinating world of AI/ML*
+
+### 🌟 My Philosophy
+*"Every bug is just an undiscovered feature waiting to be understood"*
+
+### 📚 Learning Path
+**2024 Goals**: Master React → Build 5 projects → Contribute to open source → Learn cloud deployment
+
 </div>
 
 ---
