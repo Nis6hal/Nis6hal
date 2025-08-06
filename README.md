@@ -93,7 +93,7 @@ const nischal = {
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Nis6hal" alt="GitHub Contribution Chart" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nis6hal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
