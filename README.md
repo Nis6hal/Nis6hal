@@ -33,7 +33,7 @@ const nischal = {
 - 🌱 I'm currently learning **JavaScript, React, and AI/ML**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **C++, Java, Python, and Web Technologies**
-- ⚡ Fun fact: **I think debugging is like being a detective in a crime movie where you're also the murderer**
+- ⚡ Fun fact: **I name my variables like I'm writing poetry, then comment my code like I'm leaving notes for my future confused self 📝✨**
 
 ---
 
@@ -45,7 +45,7 @@ const nischal = {
 **C** • **C++** • **Java** • **Python** • **HTML** • **CSS** • **JavaScript**
 
 ### 🔧 Tools & Technologies
-**Git** • **GitHub** • **VS Code** 
+**Git** • **GitHub** • **VS Code** • **Linux**
 
 ### 🌱 Currently Learning
 **React** • **Django** • **Machine Learning** • **Cloud Computing**
@@ -69,10 +69,10 @@ const nischal = {
 
 | 🌟 Focus Area | 📈 Progress | 🎯 Goal |
 |---------------|-------------|---------|
-| **Full-Stack Development** | 🟦🟦🟦⬜⬜ 45% | Master MERN Stack |
-| **Data Structures & Algorithms** | 🟦🟦🟦🟦⬜ 60% | Solve 500+ Problems |
+| **Full-Stack Development** | 🟦🟦🟦⬜⬜ 60% | Master MERN Stack |
+| **Data Structures & Algorithms** | 🟦🟦🟦🟦⬜ 75% | Solve 500+ Problems |
 | **Machine Learning** | 🟦🟦⬜⬜⬜ 40% | Build 5 ML Projects |
-| **Cloud Computing** | 🟦🟦⬜⬜⬜ 35% | Learn It |
+| **Cloud Computing** | 🟦🟦⬜⬜⬜ 35% | AWS Certification |
 
 </div>
 
@@ -101,8 +101,8 @@ const nischal = {
 *"Every bug is just an undiscovered feature waiting to be understood"*
 
 ### 📚 Learning Path
-**2024 Goals**: Master Frontend → Build 5 projects → Contribute to open source → Learn cloud deployment
-**2025 Goals**: Master React → Build 3 Projects → Contribute to open source → Learn AI/ML
+**2024 Goals**: Master React → Build 5 projects → Contribute to open source → Learn cloud deployment
+
 </div>
 
 ---
