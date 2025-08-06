@@ -90,10 +90,10 @@ const nischal = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nis6hal&theme=tokyo-night&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/58A6FF/Nis6hal" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
 ---
