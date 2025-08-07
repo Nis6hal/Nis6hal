@@ -13,7 +13,7 @@
 
 <div align="center">
   
-🌐 **[Visit My Portfolio Website](https://www.nischalbhandari.com.np)** - *Explore my projects and digital journey*
+🌐 **[Visit My Portfolio Website](https://www.nischal-bhandari.com.np)** - *Explore my projects and digital journey*
 
 </div>
 
