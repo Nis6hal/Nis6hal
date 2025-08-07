@@ -28,7 +28,9 @@ const nischal = {
     funFact: "I have a love-hate relationship with CSS - it's 90% hate, 10% 'how did that actually work?"
 };
 ```
+- Visit all my projects at
 
+- nischalbhandari.com.np
 - 🔭 I'm currently working on **Full-Stack Web Development**
 - 🌱 I'm currently learning **JavaScript, React, and AI/ML**
 - 👯 I'm looking to collaborate on **Open Source Projects**
