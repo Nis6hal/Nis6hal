@@ -11,6 +11,12 @@
 
 ### 💻 Computer Engineering Student | 🚀 Full-Stack Developer in Making | 🌟 Open Source Enthusiast
 
+<div align="center">
+  
+🌐 **[Visit My Portfolio Website](https://www.nischalbhandari.com.np)** - *Explore my projects and digital journey*
+
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+playground!+%F0%9F%8E%AE;Building+the+future%2C+one+line+at+a+time+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+create+something+amazing+together!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
@@ -25,12 +31,10 @@ const nischal = {
     location: "Nepal 🇳🇵",
     interests: ["Web Development", "AI/ML", "Problem Solving"],
     currentFocus: "Building full-stack applications",
-    funFact: "I have a love-hate relationship with CSS - it's 90% hate, 10% 'how did that actually work?"
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
-- Visit all my projects at
 
-- nischalbhandari.com.np
 - 🔭 I'm currently working on **Full-Stack Web Development**
 - 🌱 I'm currently learning **JavaScript, React, and AI/ML**
 - 👯 I'm looking to collaborate on **Open Source Projects**
@@ -103,9 +107,7 @@ const nischal = {
 *"Every bug is just an undiscovered feature waiting to be understood"*
 
 ### 📚 Learning Path
-**2024 Goals**: Master Frontend → Build 5 projects → Contribute to open source → Learn cloud deployment
-
-**2025 Goals**: Master React → Build 3 projects → Contribute to open source → Learn AI/ML
+**2024 Goals**: Master React → Build 5 projects → Contribute to open source → Learn cloud deployment
 
 </div>
 
