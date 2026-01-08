@@ -73,8 +73,8 @@ const nischal = {
 
 <div align="center">
 
-| 🌟 Focus Area | 📈 Progress | 🎯 Goal |
-|---------------|-------------|---------|
+| 🌟 Focus Area |
+|---------------|
 | **Full-Stack Development** 
 | **Data Structures & Algorithms** 
 | **Machine Learning** 
