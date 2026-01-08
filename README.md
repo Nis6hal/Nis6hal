@@ -75,10 +75,10 @@ const nischal = {
 
 | 🌟 Focus Area | 📈 Progress | 🎯 Goal |
 |---------------|-------------|---------|
-| **Full-Stack Development** | 🟦🟦🟦⬜⬜ 60% | Master MERN Stack |
-| **Data Structures & Algorithms** | 🟦🟦🟦🟦⬜ 75% | Solve 500+ Problems |
-| **Machine Learning** | 🟦🟦⬜⬜⬜ 40% | Build 5 ML Projects |
-| **Cloud Computing** | 🟦🟦⬜⬜⬜ 35% | AWS Certification |
+| **Full-Stack Development** 
+| **Data Structures & Algorithms** 
+| **Machine Learning** 
+| **Cloud Computing** 
 
 </div>
 
