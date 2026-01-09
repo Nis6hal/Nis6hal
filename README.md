@@ -31,7 +31,7 @@ const nischal = {
     location: "Nepal 🇳🇵",
     interests: ["Web Development", "AI/ML", "Problem Solving"],
     currentFocus: "Building full-stack applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "The popular term bug used for a software error became popular once in 1947. A system error occurred due to a moth stuck in the system. It was an actual bug indeed!"
 };
 ```
 
