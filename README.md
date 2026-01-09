@@ -39,7 +39,6 @@ const nischal = {
 - 🌱 I'm currently learning **JavaScript, React, and AI/ML**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **C++, Java, Python, and Web Technologies**
-- ⚡ Fun fact: **I name my variables like I'm writing poetry, then comment my code like I'm leaving notes for my future confused self 📝✨**
 
 ---
 
