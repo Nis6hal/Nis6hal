@@ -78,7 +78,6 @@ const nischal = {
 
 <div align="center">
 
-🎨 **[PixelPrompt](https://github.com/Nis6hal/PixelPrompt---Turn-sketches-into-websites-via-Drawing)** - Turn sketches into websites via Drawing
 
 🚌 **[Smart Bus Arrival Predictor](https://github.com/Nis6hal/Smart-Bus-Arrival-Predictor)** - AI-powered bus arrival prediction system
 
