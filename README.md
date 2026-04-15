@@ -38,7 +38,7 @@ const nischal = {
 - 🔭 I'm currently working on **Full-Stack Web Development**
 - 🌱 I'm currently learning **JavaScript, React, and AI/ML**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **C++, Java, Python, and Web Technologies**
+- 💬 Ask me about **AI/ML, Web Technologies**
 
 ---
 
@@ -47,10 +47,10 @@ const nischal = {
 <div align="center">
 
 ### 💻 Languages I Code In
-**C** • **C++** • **Java** • **Python** • **HTML** • **CSS** • **JavaScript**
+**C** • **Python** • **HTML** • **CSS** • **JavaScript**
 
 ### 🔧 Tools & Technologies
-**Git** • **GitHub** • **VS Code** • **Linux**
+**Git** • **GitHub** • **VS Code** 
 
 ### 🌱 Currently Learning
 **React** • **Django** • **Machine Learning** • **Cloud Computing**
