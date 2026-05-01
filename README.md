@@ -101,7 +101,7 @@ const nischal = {
 *"Every bug is just an undiscovered feature waiting to be understood"*
 
 ### 📚 Learning Path
-**2024 Goals**: Master React → Build 5 projects → Contribute to open source → Learn cloud deployment
+**2026 Goals**: Join Internship → Master React → Build few Projects → Open Source Contribution
 
 </div>
 
