@@ -78,10 +78,6 @@ const nischal = {
 
 <div align="center">
 
-🚌 **[Smart Bus Arrival Predictor](https://github.com/Nis6hal/Smart-Bus-Arrival-Predictor)** - AI-powered bus arrival prediction system
-
-📚 **[UniLib](https://github.com/Nis6hal/UniLib)** - A university library management system streamlining book borrowing, returns, and cataloguing for students and administrators
-
 🎬 **[CineVault](https://github.com/Nis6hal/CineVault)** - A curated movie discovery and tracking app with personalised watchlists and ratings
 
 🚗 **[Gate Automation – License Plate Detection](https://github.com/Nis6hal/Gate-Automation-License-Plate-Detection)** - Computer vision system for automated gate access control using real-time licence plate recognition
