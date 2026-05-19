@@ -78,8 +78,6 @@ const nischal = {
 
 <div align="center">
 
-🎬 **[CineVault](https://github.com/Nis6hal/CineVault)** - A curated movie discovery and tracking app with personalised watchlists and ratings
-
 🚗 **[Gate Automation – License Plate Detection](https://github.com/Nis6hal/Gate-Automation-License-Plate-Detection)** - Computer vision system for automated gate access control using real-time licence plate recognition
 
 </div>
