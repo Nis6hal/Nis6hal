@@ -2,9 +2,7 @@
 
 # Nischal Bhandari
 
-**Computer Engineering Student · Nepal 🇳🇵**
-
-Building full-stack web apps and digging into AI/ML — one project at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%F0%9F%8E%93;Full-Stack+Dev+in+Progress+%F0%9F%9B%A0%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 
 🌐 [nischal-bhandari.com.np](https://www.nischal-bhandari.com.np)
 
@@ -12,30 +10,31 @@ Building full-stack web apps and digging into AI/ML — one project at a time.
 
 ---
 
-## About
+### 👋 About
 
 I'm a computer engineering student who enjoys turning ideas into working software. Currently focused on full-stack development while getting comfortable with machine learning on the side. I like understanding how things work under the hood — not just making them run.
 
 ---
 
-## Tech Stack
+### 🛠 Tech Stack
 
-| | |
-|---|---|
-| **Languages** | C · Python · JavaScript · HTML · CSS |
-| **Tools** | Git · GitHub · VS Code · Docker |
-| **Learning** | React · Django · MongoDB · Machine Learning |
-
----
-
-## Projects
-
-### 🚗 [Gate Automation – License Plate Detection](https://github.com/Nis6hal/Gate-Automation-License-Plate-Detection)
-Real-time computer vision system that reads licence plates to automate gate access control. Built with Python and OpenCV.
+```text
+Languages   →   C · Python · JavaScript · HTML · CSS
+Tools       →   Git · GitHub · VS Code · Docker
+Learning    →   React · Django · MongoDB · Machine Learning
+```
 
 ---
 
-## Currently Focused On
+### 🚀 Projects
+
+**[Gate Automation – License Plate Detection](https://github.com/Nis6hal/Gate-Automation-License-Plate-Detection)**
+> Real-time computer vision system that reads licence plates to automate gate access control.
+> `Python` `OpenCV`
+
+---
+
+### 📌 Currently Focused On
 
 - 🌐 **Full-Stack Development** — connecting frontend and backend end-to-end
 - 🧠 **Data Structures & Algorithms** — sharpening problem-solving fundamentals
@@ -43,7 +42,7 @@ Real-time computer vision system that reads licence plates to automate gate acce
 
 ---
 
-## 2026 Goals
+### 🎯 2026 Goals
 
 - [ ] Get solid with React and MongoDB
 - [ ] Build 2–3 meaningful projects
@@ -51,20 +50,18 @@ Real-time computer vision system that reads licence plates to automate gate acce
 
 ---
 
-## Let's Connect
+### 📬 Connect
 
 <div align="center">
 
-[📧 Email](mailto:itisnischal@gmail.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/nis6hal/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/Nis6hal) &nbsp;·&nbsp; [📘 Facebook](https://www.facebook.com/nis6hal/)
-
-*Always open to collaborations and learning opportunities.*
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itisnischal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nis6hal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nis6hal)
 
 </div>
 
 ---
 
 <div align="center">
-
-*"Every bug is just an undiscovered feature waiting to be understood"*
-
+<sub><i>"Every bug is just an undiscovered feature waiting to be understood"</i></sub>
 </div>
