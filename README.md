@@ -28,7 +28,7 @@ Learning    →   React · Django · MongoDB · Machine Learning
 
 ### 🚀 Projects
 
-**[Gate Automation – License Plate Detection](https://github.com/Nis6hal/Gate-Automation-License-Plate-Detection)**
+**[Gate Automation – License Plate Detection](https://github.com/Nis6hal/Smart-Gate-Automation-Using-License-Plate-Recognition)**
 > Real-time computer vision system that reads licence plates to automate gate access control.
 > `Python` `OpenCV`
 
