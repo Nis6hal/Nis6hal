@@ -69,7 +69,7 @@ philosophy: "Understand how things work under the hood — not just make them ru
 
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nis6hal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Nis6hal) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nis6hal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF)](https://github.com/Nis6hal) |
 |---|---|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nis6hal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=ff6b6b&currStreakLabel=58A6FF)](https://github.com/Nis6hal) | [![Trophies](https://github-profile-trophy.vercel.app/?username=Nis6hal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Nis6hal) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nis6hal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=ff6b6b&currStreakLabel=58A6FF)](https://github.com/Nis6hal) | [![GitHub Streak](https://streak-stats.demolab.com?user=Nis6hal&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://github.com/Nis6hal) |
 
 </div>
 
@@ -80,8 +80,6 @@ philosophy: "Understand how things work under the hood — not just make them ru
 <div align="center">
 
 [![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/Nis6hal/Nis6hal/output/github-contribution-grid-snake-dark.svg)](https://github.com/Nis6hal)
-
-> ⚙️ *To enable the snake, add a GitHub Actions workflow — see [platane/snk](https://github.com/platane/snk) for setup instructions.*
 
 </div>
 
@@ -99,7 +97,7 @@ philosophy: "Understand how things work under the hood — not just make them ru
 
 - [ ] Get solid with React and MongoDB
 - [ ] Build 2–3 meaningful projects
-- [ ] Make first open source contribution
+- [ ] Land somewhere I can grow, contribute, and do work that matters 🚀
 
 ---
 
