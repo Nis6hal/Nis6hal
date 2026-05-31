@@ -67,7 +67,7 @@ philosophy: "Understand how things work under the hood — not just make them ru
 
 [![Nischal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nis6hal&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF)](https://github.com/Nis6hal)
 
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nis6hal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Nis6hal) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nis6hal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF)](https://github.com/Nis6hal) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nis6hal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800)](https://github.com/Nis6hal) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nis6hal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&cache_seconds=1800)](https://github.com/Nis6hal) |
 |---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nis6hal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=ff6b6b&currStreakLabel=58A6FF)](https://github.com/Nis6hal) | [![GitHub Streak](https://streak-stats.demolab.com?user=Nis6hal&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://github.com/Nis6hal) |
 
