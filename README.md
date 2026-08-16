@@ -94,12 +94,12 @@ philosophy: "Understand how things work under the hood — not just make them ru
 ## 🎯 2026 Goals
 
 - [ ] Get solid with React and MongoDB
-- [ ] Build 2–3 meaningful projects
+- [ ] Build 2–3 meaningful projects 
 - [ ] Land somewhere I can grow, contribute, and do work that matters 🚀
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me••••>
 
 <div align="center">
 
