@@ -55,6 +55,8 @@ philosophy: "Understand how things work under the hood — not just make them ru
 |--------|-------------|------|
 | [**🚗 Smart Gate Automation**](https://github.com/Nis6hal/Smart-Gate-Automation-Using-License-Plate-Recognition) | Real-time CV system that reads licence plates to automate gate access control | `Python` `OpenCV` |
 
+| [**NLP BASED RESUME AUTOMATION**](https://github.com/Nis6hal/) | ..... | `Python` `OpenCV` |
+
 > 💡 More projects coming in 2026 — watch this space!
 
 ---
