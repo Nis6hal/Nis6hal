@@ -87,7 +87,7 @@ philosophy: "Understand how things work under the hood — not just make them ru
 
 - 🌐 **Full-Stack Development** — connecting frontend and backend end-to-end
 - 🧠 **Data Structures & Algorithms** — sharpening problem-solving fundamentals
-- 🤖 **Machine Learning** — understanding models, not just using them
+- 🤖 **Machine Learning** — understanding models, not just using them-)
 
 ---
 
