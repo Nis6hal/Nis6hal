@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=200&section=header&text=Nischal%20Bhandari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=16&descColor=8b949e" alt="Header" />
@@ -30,36 +31,105 @@ philosophy: "Understand how things work under the hood — not just make them ru
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/>
+<b>Python</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/>
+<b>JavaScript</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br/>
+<b>C</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br/>
+<b>HTML5</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br/>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
 
-### Frameworks & Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+### Frameworks & Databases
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/>
+<b>React</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/><br/>
+<b>FastAPI</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br/>
+<b>Node.js</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br/>
+<b>MongoDB</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br/>
+<b>PostgreSQL</b>
+</td>
+</tr>
+</table>
 
-### ML / NLP
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+### Machine Learning & NLP
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/><br/>
+<b>scikit-learn</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br/>
+<b>Pandas</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br/>
+<b>NumPy</b>
+</td>
+</tr>
+</table>
 
-### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" style="margin-right:16px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+### Tools & DevOps
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/>
+<b>Git</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br/>
+<b>GitHub</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br/>
+<b>VS Code</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br/>
+<b>Docker</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
