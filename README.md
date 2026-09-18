@@ -180,7 +180,7 @@ philosophy: "Understand how things work under the hood — not just make them ru
 
 - [ ] Land a role where I can grow, contribute, and do work that matters 🚀
 - [ ] Keep sharpening React, ML/NLP, and systems fundamentals
-- [ ] Ship 2–3 more meaningful projects
+- [ ] Build one project that I can see and be impressed
 - [ ] Open to internships, junior roles, and collaborations — let's talk!
 
 ---
