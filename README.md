@@ -5,9 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9B%A0%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Ex-Intern+%40+Nepal+Telecom+%F0%9F%93%A1;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
-https://www.nischal-bhandari.com.np
-[![Profile Views](https://komarev.com/ghpvc/?username=Nis6hal&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/Nis6hal)
-
+nischal-bhandari.com.np
 </div>
 
 ---
