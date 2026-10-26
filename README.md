@@ -142,29 +142,6 @@ philosophy: "Understand how things work under the hood — not just make them ru
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![Nischal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nis6hal&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF)](https://github.com/Nis6hal)
-
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nis6hal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800)](https://github.com/Nis6hal) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nis6hal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=ff6b6b&currStreakLabel=58A6FF)](https://github.com/Nis6hal) |
-|---|---|
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-[![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/Nis6hal/Nis6hal/output/github-contribution-grid-snake-dark.svg)](https://github.com/Nis6hal)
-
-</div>
-
----
-
 ## 📌 Currently Focused On
 
 - 💼 **Fresh off an internship at Nepal Telecom (NTC)** — applied what I learned in a real production environment
@@ -178,7 +155,7 @@ philosophy: "Understand how things work under the hood — not just make them ru
 
 - [ ] Land a role where I can grow, contribute, and do work that matters 🚀
 - [ ] Keep sharpening React, ML/NLP, and systems fundamentals
-- [ ] Build one project that I can see and be impressed
+- [ ] Build one project that I can myself be impressed of
 - [ ] Open to internships, junior roles, and collaborations — let's talk!
 
 ---
